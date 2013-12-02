@@ -24,6 +24,8 @@
 
 ### 事情就是这个样子，嗯，之前什么也没有发生过，大家愉快地准备期zhong考吧！
 
+原期zhong考攻略[链接](https://github.com/dshomework/hw6/blob/master/finalterm.md)，有所删改。
+
 ##
 
 HOMEWORK 等迟点我脆弱的心灵恢复了再布置。。。
